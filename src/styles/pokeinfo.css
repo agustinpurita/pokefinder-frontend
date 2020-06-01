@@ -1,0 +1,21 @@
+.pokeinfo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pokeinfo-foto {
+    width: 8rem;
+    margin-top: 25px;
+}
+
+.pokeinfo-name {
+    font-size: 80px;
+    color: darkviolet;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.pokeinfo-exp {
+    margin-bottom: 100px;
+}
