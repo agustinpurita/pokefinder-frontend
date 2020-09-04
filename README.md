@@ -1,6 +1,6 @@
 Ubicado en el directorio del proyecto, ejecutar:
 
-npm start
+npm run start
 
 para iniciar la aplicación.
 
